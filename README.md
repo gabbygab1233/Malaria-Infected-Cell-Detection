@@ -10,3 +10,4 @@
 # Acknowledgements
 The Dataset is taken from the official NIH Website: https://ceb.nlm.nih.gov/repositories/malaria-datasets/ And uploaded  in Kaggle :https://www.kaggle.com/iarunava/cell-images-for-detecting-malaria
 
+If you can't open the notebook try here: https://nbviewer.jupyter.org/github/gabbygab1233/Malaria-Infected-Cell-Detection/blob/master/detection-of-malaria-infected-cell-fastai-v2.ipynb
